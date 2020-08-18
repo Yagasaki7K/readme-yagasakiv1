@@ -10,4 +10,4 @@ Enthusiast of the technologies.
 
 Anderson of the House Tomaz Alves, First of her name, Dev Front-End, Graphic Design, The “Yagasaki”, lover for technology and HQs.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+"There is neither good nor evil, there is only power, and those who are too weak to desire it", Lord Voldemort.
