@@ -1,4 +1,4 @@
-# Anderson "Yagasaki" Marlon
+# Anderson “Yagasaki” Marlon
 
 Assistant Marketing at @MarryPerryParis
 
