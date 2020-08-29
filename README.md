@@ -1,6 +1,6 @@
 # Anderson “Yagasaki” Marlon
 
-Assistant Marketing at @MarryPerryParis
+Dev. Front End at @MarryPerryParis
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anderson%20Marlon-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonmarlon/)](https://www.linkedin.com/in/andersonmarlon/) 
 [![Gmail Badge](https://img.shields.io/badge/-anderson18.marlon@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson18.marlon@gmail.com)](mailto:anderson18.marlon@gmail.com)
