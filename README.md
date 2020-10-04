@@ -10,4 +10,4 @@ Enthusiast of the technologies.
 
 Anderson of the House Tomaz Alves, First of her name, Dev Front-End, Graphic Design, The “Yagasaki”, lover for technology and HQs.
 
-"There is neither good nor evil, there is only power, and those who are too weak to desire it", Lord Voldemort.
+"Allow yourself to evolve and absorb more knowledge, even against your will.", Y7K.
