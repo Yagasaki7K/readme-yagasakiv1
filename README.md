@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Fullstack Javascript.</strong>
+  🦄 Dev: <strong>Fullstack Javascript.</strong>
 </p>
 
 <p align="left">
-  💼 Responsabilitys: <strong>CTO/Founder of Kalify Inc | Owner of @NERV-OpenSource | Developer on YCS</strong>
+  💼 Business: <strong>CTO/Founder of Kalify Inc | Owner of @NERV-OpenSource | Developer on YCS</strong>
 </p>
 
 <p align="left">
