@@ -1,13 +1,34 @@
-# Anderson “Yagasaki” Marlon
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-CTO/Founder of Kalify Inc. || Owner of @NERV-OpenSource
+<p align="left"> 
+  Enthusiast of the technologies.
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anderson%20Marlon-7159c1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonmarlon/)](https://www.linkedin.com/in/andersonmarlon/) 
-[![Gmail Badge](https://img.shields.io/badge/-anderson18.marlon@gmail.com-7159c1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson18.marlon@gmail.com)](mailto:anderson18.marlon@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@Yagasaki7k-7159c1?style=flat-square&labelColor=7159c1&logo=twitter&logoColor=white&link=https://twitter.com/yagasaki7k)](https://twitter.com/yagasaki7k) 
+<p align="left">
+  🦄 Languages: <strong>Fullstack Javascript.</strong>
+</p>
 
-Enthusiast of the technologies.
+<p align="left">
+  💼 Responsabilitys: <strong>CTO/Founder of Kalify Inc | Owner of @NERV-OpenSource | Developer on YCS</strong>
+</p>
 
-Anderson of the House Tomaz Alves, First of her name, Dev Front-End, Graphic Design, The “Yagasaki”, lover for technology and HQs.
+<p align="left">
+  💌 Message: Allow yourself to evolve and absorb more knowledge, even against your will ⤵️
+</p>
 
-"Allow yourself to evolve and absorb more knowledge, even against your will.", Y7K.
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:anderson18.marlon@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonmarlon/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=19998018174"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/AndersonMarlonDesign"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/AndersonMarlonDesign"/></a>
+</p>  
