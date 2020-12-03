@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Message: Allow yourself to evolve and absorb more knowledge, even against your will ⤵️
+  💌 Allow yourself to evolve and absorb more knowledge, even against your will. - Y7K
 </p>
 
 <p align="left">
