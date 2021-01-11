@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Business: <strong>CTO/Founder of Kalify Inc | Owner of @NERV-OpenSource | Developer on YCS</strong>
+  💼 Business: <strong>CTO/Founder of Kalify Inc | Owner of @NERV-OpenSource | Developer Front End</strong>
 </p>
 
 <p align="left">
