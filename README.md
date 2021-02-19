@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  💼 Business: <strong>CTO/Founder of Kalify Inc | Developer Front End</strong>
+  💼 Business: <strong>CTO at ABREF | Developer Front End</strong>
 </p>
 
 <p align="left">
