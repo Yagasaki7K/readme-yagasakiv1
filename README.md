@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  💼 Business: <strong>CTO at ABREF | Developer Front End</strong>
+  💼 Business: <strong>CEO at NERV Open Source | Developer Front End</strong>
 </p>
 
 <p align="left">
