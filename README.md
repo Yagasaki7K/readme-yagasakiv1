@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  💼 Business: <strong>CEO at Aperture Labs | Systems Development Assistant at Cenário Capital</strong>
+  💼 Business: <strong>CEO at Aperture Labs | <br> Systems Development Assistant at Cenário Capital |</strong>
 </p>
 
 <p align="left">
