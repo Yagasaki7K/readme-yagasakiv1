@@ -9,9 +9,6 @@
   <a href="https://api.whatsapp.com/send?phone=19998018174" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=19998018174"/></a>
 
-  <a href="https://www.facebook.com/AndersonMarlonDesign" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/AndersonMarlonDesign"/></a>
-
   <a href="https://www.instagram.com/AndersonMarlonDesign" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/AndersonMarlonDesign"/></a>
 </p>  
@@ -24,7 +21,7 @@
 </p>
 
 <p align="left">
-  💼 Business: <strong>CEO at NERV Open Source | Developer Front End</strong>
+  💼 Business: <strong>CEO at Aperture Labs | Systems Development Assistant at Cenário Capital</strong>
 </p>
 
 <p align="left">
