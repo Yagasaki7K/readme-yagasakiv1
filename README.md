@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  🦄 Dev: <strong>Systems Development Analist with Javascript</strong>
+  🦄 Dev: <strong>Front-end with Javascript</strong>
 </p>
 
 <p align="left">
