@@ -17,15 +17,20 @@
 </p>
 
 <p align="left">
-  🦄 Dev: <strong>Front-end with Javascript</strong>
+  🦄 Dev: <strong>Front-end (React / NextJS)</strong>
 </p>
 
 <p align="left">
-  💼 Business: <strong>CEO at Aperture Laboratories | <br> Systems Development Analist at Cenário Capital</strong>
+  🏆 Achivement: <strong>Third place on Hackathon's Ambev by Shawee</strong>
 </p>
 
 <p align="left">
-  💌 Allow yourself to evolve and absorb more knowledge, even against your will. - Y7K
+  💼 Business: <strong>CEO at Aperture Laboratories</strong>
 </p>
 
+<p align="left">
+  💌 Science without results is just witchcraft
+</p>
+
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
