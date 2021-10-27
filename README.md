@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left">
   <a href="mailto:anderson18.marlon@gmail.com" alt="Gmail" target="_blank">
@@ -31,6 +33,4 @@
 <p align="left">
   💌 Science without results is just witchcraft
 </p>
-
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
