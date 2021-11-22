@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  🦄 Dev: <strong>Front-end (React / NextJS)</strong>
+  🦄 Dev: <strong>Systems Development Analyst // Front-end Developer</strong>
 </p>
 
 <p align="left">
