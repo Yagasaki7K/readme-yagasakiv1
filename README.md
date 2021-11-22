@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  🦄 Dev: <strong>Systems Development Analyst // Front-end Developer</strong>
+  🦄 Dev: <strong>Systems Development Analyst / Front-end Developer</strong>
 </p>
 
 <p align="left">
@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  💼 Business: <strong>CEO at Aperture Laboratories</strong>
+  💼 Business: <strong>Founder/CEO at Aperture Laboratories</strong>
 </p>
 
 <p align="left">
